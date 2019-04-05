@@ -1,0 +1,58 @@
+a:link {		text-decoration: none;
+}
+
+a:visited {		text-decoration: none;
+}
+
+a:hover {  		text-decoration: underline;
+}
+
+
+/*-----------------------------------------------------------------*/
+/*	In td Stuff	*/
+
+.intd {		color: black;
+		font-size: 13px;
+		font-family: Arial, Helvetica, sans-serif;
+}
+
+a.intd:link {	color: #2E4BE0;
+                text-decoration: none;
+		font-size: 13px;
+		background-color: transparent;
+}
+
+a.intd:visited {color: purple;
+                text-decoration: none;
+		font-size: 13px;
+		background-color: transparent;
+}
+
+a.intd:hover {  text-decoration: underline;
+		font-size: 13px;
+}
+
+
+/*-----------------------------------------------------------------*/
+/*	Quicklinks	*/
+
+.quick {	color: #0066CC;
+		font-size: 13px;
+		font-family: Arial, Helvetica, sans-serif;
+}
+
+a.quick:link {	color: #2E4BE0;
+                text-decoration: none;
+		font-size: 13px;
+		background-color: transparent;
+}
+
+a.quick:visited {color: purple;
+                text-decoration: none;
+		font-size: 13px;
+		background-color: transparent;
+}
+
+a.quick:hover { text-decoration: underline;
+		font-size: 13px;
+}
